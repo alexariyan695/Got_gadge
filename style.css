@@ -40,3 +40,14 @@ img.logo{
     width: 100px;
     height: 40px;
 }
+
+.nav-text li a{
+    color: black;
+    font-weight: 400;
+
+}
+
+
+.nav-text li a:hover{
+    border-bottom: 2px solid black;
+}
