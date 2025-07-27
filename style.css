@@ -22,10 +22,21 @@
     }
 
 
-    .last{
-        display: block;
-    }
+    
     
 }
 
+.head{
+    border-bottom: 2px solid yellow;
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 10px;
+    border-radius: 2px;
+    margin: 0 auto;
+}
 
+img.logo{
+    width: 100px;
+    height: 40px;
+}
